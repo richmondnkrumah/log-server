@@ -1,2 +1,4 @@
 flask
 gunicorn
+dropbox
+python-dotenv
